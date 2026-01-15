@@ -1,0 +1,7 @@
+{
+  "name": "MoveMate AI Packing Assistant",
+  "description": "A smart moving assistant that uses Gemini 3 Pro to automatically generate a packing list by scanning your room with the camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
